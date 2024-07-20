@@ -12,7 +12,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "VitalPulse",
+  title: "CarePulse",
   description: "A healthcare management system",
 };
 
